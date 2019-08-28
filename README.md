@@ -2,7 +2,7 @@
 ### Remove watermark and recover image automatically by Deep learning</h1>
 ### Performance: accuracy 80% and average time 2s/image in CPU
 **Experiment**:<br/>
-- Images(contain watermark) were crawled randomly from [chotot](https://nha.chotot.com/#regionselect?v=1.1) and [batdongsan](https://batdongsan.com.vn/ban-nha-rieng). They never were in training dataset.<br/>
+- Images(contain watermark) were crawled randomly from [batdongsan](https://batdongsan.com.vn/ban-nha-rieng) and [chotot](https://nha.chotot.com/#regionselect?v=1.1). They never were in training dataset.<br/>
 - In total 173 images, Remover got 143 good results and 30 not good results.
 
 ## Some good results:
@@ -35,6 +35,6 @@
 <br/>
 <br/>
 <br/>
-Free to contact with me if you are interested in this subject and have business !<br/>
+Free to inbox me if you are interested in this subject and have business !<br/>
 anhthuy9096@gmail.com<br/>
 Thank you
